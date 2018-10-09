@@ -1,5 +1,5 @@
 ---
-title: "TESTING The use of lexical stress and vowel duration for"
+title: "The use of lexical stress and vowel duration for"
 subtitle: "morphological anticipation in L2 learners of Spanish </br> </br> .lightgrey[HLS - 2018]"
 author: "Cristina Lozano Argüelles, Nuria Sagarra, Joseph V. Casillas"
 date: "Rutgers University </br> 10-26-2018"
