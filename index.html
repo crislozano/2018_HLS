@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>The use of lexical stress and vowel duration for</title>
+    <title>TESTING The use of lexical stress and vowel duration for</title>
     <meta charset="utf-8">
     <meta name="author" content="Cristina Lozano Argüelles, Nuria Sagarra, Joseph V. Casillas" />
     <link rel="stylesheet" href="https://www.jvcasillas.com/ru_xaringan/css/rutgers.css" type="text/css" />
@@ -11,7 +11,7 @@
     <textarea id="source">
 class: center, middle, inverse, title-slide
 
-# The use of lexical stress and vowel duration for
+# TESTING The use of lexical stress and vowel duration for
 ## morphological anticipation in L2 learners of Spanish </br> </br> .lightgrey[HLS - 2018]
 ### Cristina Lozano Argüelles, Nuria Sagarra, Joseph V. Casillas
 ### Rutgers University </br> 10-26-2018
@@ -313,9 +313,11 @@ class: inverse, center, middle
 
 # Research questions
 
-### 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress to anticipate morphology information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
+### 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
 
-### 2. Does interpreting experience train anticipatory processing?
+### 2. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use vowel duration to anticipate morphological information?
+
+### 3. Does interpreting experience train anticipatory processing?
 
 ---
 
@@ -417,20 +419,68 @@ class: inverse, center, middle
 background-image: url(./img/vowel_time_course.png)
 background-size: 800pt
 
+???
+
+This graph shows us the proportion of fixations to the target and distractor in the three groups in our target area
+
+Because of differences in word frequency, we removed two most frequent items
+
+10ms bins
+Time course centered around offset target syllable 
+Interest area = earliest target word onset to target syllable onset
+
 ---
 
 background-image: url(./img/vowel_ttest.png)
 background-size: 800pt
+
+???
+
+Are they better than chance?
+
+-End target syllables
+-one-sided t-test
+-Proportions against chance
+-Next graph we compare the three different groups
+
 
 ---
 
 background-image: url(./img/vowel_glmm.png)
 background-size: 800pt
 
+???
+
+Are they different from each other?
+
+-Linear model:
+
+Main effect of group: int higher target fixation than the other two groups
+Main effect of condition: all cases bi is higher than mono
+
+There was no main effect of the interaction of group and condition
+
+-Upper bound confidence interval and now we can compare the groups
+
 ---
 
 background-image: url(./img/vowel_gca.png)
 background-size: 800pt
+
+???
+
+How are the groups different from each other for each condition?
+
+In this graph: we’re looking at the predictive model fit of the growth curve analysis
+GCA: multilevel modeling technique that allows you to model time as a higher order polynomial. What this means is that you can fit curves to the functional form of the data and it allows you to assess grade of change.
+
+Main effect of group on the intercept: int fixate on the target at a higher rate than
+
+(in GCA: the intercept refers to the middle of the time course, not the traditional Y intercept)
+
+Main effect of condition on the quadratic polynomial: faster rate of fixation in the disyllabic condition
+	This is supported by what we found on previous analyses 
+
 
 ---
 class: inverse, center, middle
@@ -440,21 +490,33 @@ class: inverse, center, middle
 ---
 background-image: url(./img/time_course.png)
 background-size: 800pt
+
+???
+Time course
+
 ---
 
 background-image: url(./img/ttest.png)
 background-size: 800pt
 
+???
+t-test. Can they do it? Only MON and IN fixated on target words above chance at the target syllable offset (both conditions). NIN did not fixate on targets above chance after adjunting the alpha level for multiple testing. 
 
 ---
 
 background-image: url(./img/glmm.png)
 background-size: 800pt
 
+???
+glmmm. Main effect of group and syllable structure. NIN lower fixation rate than monolinguals. Target fixations of IN = MON. Presence of a coda = increased chance of fixating at the target.
+
 ---
 
 background-image: url(./img/gca.png)
 background-size: 800pt
+
+???
+GCA. Main effect on group for the slope and the quadratic term. NIN lower fixation than M (slower at fixating). Group by coda interaction on the intercept: both IN and NINfixated on CV targets less than MON. Group by coda interaction on the slope for IN: faster fixations to the target. (we can see it on the graph, IN curve is steeper, it starts with lower fixations than the MON, but it reaches the same level by the offset of the target syllable)
 
 ---
 class: inverse, center, middle
@@ -463,20 +525,8 @@ class: inverse, center, middle
 
 ---
 
-# 1. Does complex processing train anticipation?
+# 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
 
-- YES, interpreters perform closer to monolinguals.
-
-- Non-interpreters (LA): Only anticipate when more time and phonological information are present
-
-- All fixate more on targets in CVC (firma-firmó) than CV (lava-lavó)
-
-- Monolinguals and interpreters fixate on targets more than non-interpreters = INTERPRETER ADVANTAGE
-
-
----
-
-# 2. When do they predict?
 
 - Monolinguals &amp; interpreters fixate on targets earlier than non-interpreters = INTERPRETER ADVANTAGE.
 
@@ -485,9 +535,26 @@ class: inverse, center, middle
     - CV: Interpreters initially fixate less, but at a faster rate than natives (they get to the same point by target offset)
     - CVC: interpreters = monolinguals
 
-# 3. Does WM mediate anticipation?
 
-- Our data doesn't support WM as a mediating factor of anticipation
+---
+
+# 2. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use vowel duration to anticipate morphological information?
+
+
+- Only interpreters can use duration to anticipate in both conditions.
+
+- All groups perform better in the disyllabic condition.
+
+
+---
+
+# 3. Does interpreting experience train anticipatory processing?
+
+- YES, interpreters perform closer to monolinguals.
+
+- Non-interpreters (LA): Only anticipate when more time and phonological information are present (lexical stress: CVC condition).
+
+- Monolinguals and interpreters fixate on targets more than non-interpreters = INTERPRETER ADVANTAGE.
 
 
 ---
@@ -498,7 +565,9 @@ class: inverse, center, middle
 
 2. Qualitatively (can they do it?): it is possible to learn L2 anticipatory patterns (non-interpreters) post-puberty, and “practice makes you better” (interpreters).
 
-3. Quantitatively (how early they predict?): the monolinguals are the winners.
+3. Quantitatively (how early do they predict?): the monolinguals are the winners.
+
+4. Important cues in the L1 can be transfered to the L2 with the appripriate trainning.
 
 
 
