@@ -539,6 +539,10 @@ class: inverse, center, middle
 # 2. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use vowel duration to anticipate morphological information?
 
 
+- Only interpreters can use duration to anticipate in both conditions.
+
+- All groups perform better in the disyllabic condition.
+
 
 ---
 
@@ -546,11 +550,9 @@ class: inverse, center, middle
 
 - YES, interpreters perform closer to monolinguals.
 
-- Non-interpreters (LA): Only anticipate when more time and phonological information are present
+- Non-interpreters (LA): Only anticipate when more time and phonological information are present (lexical stress: CVC condition).
 
-- All fixate more on targets in CVC (firma-firmó) than CV (lava-lavó)
-
-- Monolinguals and interpreters fixate on targets more than non-interpreters = INTERPRETER ADVANTAGE
+- Monolinguals and interpreters fixate on targets more than non-interpreters = INTERPRETER ADVANTAGE.
 
 
 ---
@@ -561,7 +563,9 @@ class: inverse, center, middle
 
 2. Qualitatively (can they do it?): it is possible to learn L2 anticipatory patterns (non-interpreters) post-puberty, and “practice makes you better” (interpreters).
 
-3. Quantitatively (how early they predict?): the monolinguals are the winners.
+3. Quantitatively (how early do they predict?): the monolinguals are the winners.
+
+4. Important cues in the L1 can be transfered to the L2 with the appripriate trainning.
 
 
 
