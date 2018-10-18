@@ -1,8 +1,8 @@
 ---
 title: "The use of lexical stress and vowel duration for"
-subtitle: "morphological anticipation in L2 learners of Spanish </br> </br> .lightgrey[HLS - 2018]"
+subtitle: "morphological anticipation in L2 learners of Spanish </br> </br> .lightgrey[Hispanic Linguistics Symposium - 2018]"
 author: "Cristina Lozano Argüelles, Nuria Sagarra, Joseph V. Casillas"
-date: "Rutgers University </br> 10-26-2018"
+date: "Rutgers University </br> Oct 26th 2018"
 output:
   xaringan::moon_reader:
     lib_dir: libs
@@ -33,24 +33,21 @@ class: center, top
 
 --
 background-image: url(https://media.giphy.com/media/cVfW1dt8sB2ne/giphy.gif)
-background-position: 10% 50%
-background-size: 400pt
---
-background-image: url(https://media.giphy.com/media/DpB9NBDjIJLequCrZ3a/giphy.gif)
-background-position: 90% 50%
-background-size: 400pt
+
+background-size: 550pt
+
 
 
 ???
 
-For example, if you play frisbee, you need to predict the position of the frisbee in order to be able to catch it. When you want to prepare a sandwich, you need to anticipate the ingredients you will need, or when you are actually making it, studies show that your eyes start looking at the next step you are going to do, before you actually do it.
+For example, if you play frisbee, you need to predict the position of the frisbee in order to be able to catch it. 
 
 ---
 
 # Linguistic prediction
 
 --
-## **Pre-activation** of stored linguistic information
+## Pre-activation of stored linguistic information
 
 --
 
@@ -65,11 +62,11 @@ For example, if you play frisbee, you need to predict the position of the frisbe
 Language is no exception to these anticipatory mechanisms. During this presentation, prediction or anticipation are synonyms, meaning: pre-activation of stored linguistic information before it is actually said.
 
 ---
-class: inverse
 
-# Goal
 
-- ### Investigate whether experience with complex processing (interpreting) can train anticipatory processing
+# Goals
+
+- ### Can experience with complex processing (interpreting)  train anticipatory processing?
 --
 
 
@@ -89,14 +86,13 @@ I will start by reviewing the literature on morphological, both during native an
 
 # L1 Morphosyntactic Anticipation
 
-- Natives anticipate rapidly and effortlessly (Kamide, 2008), although not under all circumstances (Nieuwland et al., 2018)
+- Monolinguals anticipate rapidly and effortlessly (Kamide, 2008), although not under all circumstances (Nieuwland et al., 2018)
 
-- Both adults and children use gender and case marking to make morphosyntactic predictions (Spanish, Dutch, German, French) (Dussias et al., 2013) (Lew-Williams & Fernald, 2007)
+- Monolingual adults and children use gender agreement to make morphosyntactic predictions (Spanish, Dutch, German, French) (Dussias et al., 2013)
     - Eg. "Encuentra la galleta" (Find the-FEM cookie)
     
-- Case-marking is also used predictively by natives (Mitsugi & MacWhinney, 2016)
+- Case-marking is also used predictively by monolinguals in Japanese (Mitsugi & MacWhinney, 2016) and German (Hopp, 2015)
 
-- These studies show that morphosyntax is important for expectation generation  of upcoming linguistic information.
 
 ---
 
@@ -311,9 +307,9 @@ class: inverse, center, middle
 
 # Research questions
 
-### 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
+### 1. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
 
-### 2. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use vowel duration to anticipate morphological information?
+### 2. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use vowel duration to anticipate morphological information?
 
 ### 3. Does interpreting experience train anticipatory processing?
 
@@ -523,7 +519,7 @@ class: inverse, center, middle
 
 ---
 
-# 1. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
+# 1. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
 
 
 - Monolinguals & interpreters fixate on targets earlier than non-interpreters = INTERPRETER ADVANTAGE.
@@ -536,7 +532,7 @@ class: inverse, center, middle
 
 ---
 
-# 2. Do Spanish monolinguals, non-interpreter bilinguals and interpreters use vowel duration to anticipate morphological information?
+# 2. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use vowel duration to anticipate morphological information?
 
 
 - Only interpreters can use duration to anticipate in both conditions.
@@ -556,6 +552,7 @@ class: inverse, center, middle
 
 
 ---
+class: inverse
 
 # Conclusions
 
