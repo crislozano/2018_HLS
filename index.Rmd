@@ -603,14 +603,12 @@ background-position: 90% 20%
 
 - ### Cristina Lozano Argüelles
 - ### Nuria Sagarra
-- ### Joseph Casillas<sup>1</sup>
+- ### Joseph Casillas
 
 # cris.lozano@rutgers.edu
 
 
-.footnote[
-[1] Template slides created by Joseph Casillas, using Xaringan (R package).
-]
+
 
 
 
