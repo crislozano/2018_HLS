@@ -149,6 +149,8 @@ Now I will continue explaining why have chosen this particular bilingual populat
 
 # Interpreters & Processing
 
+.large[
+
 - Very complex task, Efforts Model (Gile, 2009)
     - Listening, analysis, production, and memory
 
@@ -156,46 +158,17 @@ Now I will continue explaining why have chosen this particular bilingual populat
 
 - Better than natives at error detection in their L2 (Yudes et al. 2013)
 
-- They adapt the parsing preference for ambiguous sentences depending on the task (reading or interpreting) (Togato et al. 2015)
+- Anticipation is taught in simultaneous interpreting courses (Li, 2015)
 
-
-???
-
-Togato: When reading ambiguous sentences that could be interpreted with both low attachment (preferred by English natives) and high attachment (preferred by Spanish natives), they adapt to the preference according to the task they are doing.
-
----
-
-# Interpreters & Anticipation
-
-## Anticipation...
-
-.pull-left[
-- is taught in simultaneous interpreting courses (Li, 2015)
-
-- releases cognitive load
-
-- has been studied in language pairs with asymmetrical syntactic structures (SVO/SOV) (Van Besien, 1999)
-
-- happens at high rates and is successful most of o the time (Liontou, 2012)
-
-- is possible thanks to contextual knowledge (both general and from the specific text), and syntactic knowledge (Moser-Mercer, 1978)
+    - releases cognitive load
 
 ]
---
-
-.pull-right[
-
-
+???
 
 - But we still don't know
   - Other cues?
   - Other referents?
   - Interpreting practice enhances anticipation?
-]
-
-???
-
-Interpreters are also interesting for this topic because they use anticipation while performing simultaneous interpreting. 
 
 ---
 class: inverse, center, middle
@@ -204,49 +177,16 @@ class: inverse, center, middle
  
 ???
 
-In this coming section, I will review the literature related to the prosodic cues I research: Lexical Stress & Vowel Duration
+In this coming section, I will review the literature related to the prosodic cues I research: Vowel Duration & Lexical Stress
 
----
-
-# Lexical Stress
-
-- Relative prominece of a syllable in relation to the rest of syllable in a word.
-- Correlates: Tone (F0), duration (ms), and intesity (dB)
-- Contrastive in English and Spanish, but used differently
-
---
-
-.pull-left[
-
-### English
-- Stress-timed 
-  - Unstressed vowels: reduction [ə] 
-- English natives use suprasegmental information for lexical access, but segmental information has a stronger role in lexical activation (Cooper et al., 2002).
-- Mandarin L2ers of English use only suprasegmental cues and Korean L2ers use both segmental and suprasegmental cues (Connell et al., 2018) 
-]
-
---
-
-.pull-right[
-
-### Spanish
-- Syllable-timed 
-  - Stressed vowels: slightly longer
-  - Spanish natives rely on F0, intensity and duration to identify stress
-- English L2 learners of Spanish have problems with stress production and perception (Face, 2006; Lord, 2007). 
-- Both suprasegmental and segmental information contribute equally to the activation of word forms (Soto-Faraco et al., 2001)
-
-]
-
-???
-
-Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 
 ---
 # Vowel Duration
 
 - Neither English or Spanish and quantity languages (Monroy Casas, 2004)
 - Differences are greater in English
+
+--
 
 .pull-left[
 
@@ -265,12 +205,45 @@ Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 
 - Intrinsic differences: /a/ > /e, o/ > /u, i/ (Marín Gálvez, 1995)
 - Affected by stress
-- Spanish L2 learners of English: use vowel duration over 
 - Spanish natives are sensitive to duration changes only with new vowel qualities (Chládkova, Escudero & Lipski, 2013)
 
 ]
 
+---
 
+# Lexical Stress
+
+- Relative prominece of a syllable in relation to the rest of syllable in a word.
+- Correlates: Tone (F0), duration (ms), and intesity (dB)
+- Contrastive in English and Spanish, but used differently
+
+--
+
+.pull-left[
+
+### English
+- Stress-timed 
+  - Unstressed vowels: reduction [ə] 
+- English natives use suprasegmental information for lexical access, but segmental information has a stronger role in lexical activation (Cooper et al., 2002).
+
+]
+
+--
+
+.pull-right[
+
+### Spanish
+- Syllable-timed 
+  - Stressed vowels: slightly longer
+  - Spanish natives rely on F0, intensity and duration to identify stress
+- Both suprasegmental and segmental information contribute equally to the activation of word forms (Soto-Faraco et al., 2001)
+- English L2 learners of Spanish have problems with stress production and perception (Face, 2006; Lord, 2007). 
+
+]
+
+???
+
+Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 ---
 
 # Prosodic Cues to Predict Morphology
@@ -281,7 +254,7 @@ Constrative means that it changes meaning: PApa vs. paPÁ, CONtent vs. conTENT
 
 - Contrastive intonation guides the initial syntactic analysis (for Japanese Nakamura et al., 2012)
 
-- English owel duration preactivates upcoming morphology (active/pasive verbs) (Stromswold et al., 2002)
+- English vowel duration preactivates upcoming morphology (active/pasive verbs) (Stromswold et al., 2002)
 
 - Swedish word-tones preactive upcoming morhphology (present/past, singular/plural)
 ]
@@ -312,9 +285,9 @@ class: inverse, center, middle
 
 # Research questions
 
-### 1. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
+### 1. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use vowel duration to anticipate morphological information?
 
-### 2. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use vowel duration to anticipate morphological information?
+### 2. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
 
 ### 3. Does interpreting experience train anticipatory processing?
 
@@ -359,9 +332,28 @@ After calibration, the participant saw a fixation cross for 250ms, followed by 1
 
 ---
 
-# Eye-tracking task: lexical stress and vowel duration to anticipate morphology
+# Eye-tracking task: vowel duration and lexical stress to anticipate morphology
 
 .pull-left[
+### Vowel duration
+
+- 16 sentences
+  - 8 monosyllabic (CVC)
+  - 8 disyllabic (CVCVC)
+
+
+- 5/7 words long
+
+- Semantically viable (for both conditions)
+
+
+<ru-blockquote>El cocinero escogió col/coles para el menú (The cook chose cauliflower/s for the menu) </ru-blockquote>
+
+
+]
+
+
+.pull-right[
 
 ### Lexical stress
 
@@ -375,24 +367,7 @@ After calibration, the participant saw a fixation cross for 250ms, followed by 1
 - Semantically viable (for both conditions)
 
 <ru-blockquote>La mujer llena/llenó la jarra. (The woman fills/filled the jar)  </ru-blockquote>
-]
 
-
-.pull-right[
-
-### Vowel duration
-
-- 16 sentences
-  - 8 monosyllabic (CVC)
-  - 8 disyllabic (CVCVC)
-
-
-- 5 words long
-
-- Semantically viable (for both conditions)
-
-
-<ru-blockquote>El cocinero escogió col/coles para el menú (The cook chose cauliflower/s for the menu) </ru-blockquote>
 
 ]
 ---
@@ -406,7 +381,7 @@ After calibration, the participant saw a fixation cross for 250ms, followed by 1
 
   - Determine whether participants can anticipate
 
-- GLMM
+- Linear Model
 
   - Establish group differences
 
@@ -442,6 +417,9 @@ background-size: 800pt
 ???
 
 Are they better than chance?
+We see that only the interpreter group can anticipate in both conditions
+The non-interpreter L2 learners can only anticipate in the disyllabic condition
+Monolinguals do not anticipate
 
 -End target syllables
 -one-sided t-test
@@ -479,7 +457,7 @@ How are the groups different from each other for each condition?
 In this graph: we’re looking at the predictive model fit of the growth curve analysis
 GCA: multilevel modeling technique that allows you to model time as a higher order polynomial. What this means is that you can fit curves to the functional form of the data and it allows you to assess grade of change.
 
-Main effect of group on the intercept: int fixate on the target at a higher rate than
+Main effect of group on the intercept: int fixate on the target at a higher rate than the other groups
 
 (in GCA: the intercept refers to the middle of the time course, not the traditional Y intercept)
 
@@ -528,9 +506,25 @@ class: inverse, center, middle
 
 # Discussion
 
+
 ---
 
-# 1. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
+# 1. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use vowel duration to anticipate morphological information?
+
+.Large[
+- Only interpreters can use duration to anticipate in both conditions.
+
+    - Maybe they are able to transfer this processing strategy from their L1
+
+- All groups perform better in the disyllabic condition.
+    
+    - This could be due to the vowel being shorter = they anticipate earlier 
+]
+
+
+---
+
+# 2. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use lexical stress to anticipate morphological information? If yes, does syllabic structure (CV, CVC) influence their anticipatory abilities? 
 
 .Large[
 - Monolinguals & interpreters fixate on targets earlier than non-interpreters = INTERPRETER ADVANTAGE.
@@ -543,16 +537,6 @@ class: inverse, center, middle
 
 ---
 
-# 2. Do Spanish monolinguals, interpreter/non-interpreter L2 learners use vowel duration to anticipate morphological information?
-
-.Large[
-- Only interpreters can use duration to anticipate in both conditions.
-
-- All groups perform better in the disyllabic condition.
-]
-
----
-
 # 3. Does interpreting experience train anticipatory processing?
 
 .Large[
@@ -561,6 +545,8 @@ class: inverse, center, middle
 - Non-interpreters (LA): Only anticipate when more time and phonological information are present (lexical stress: CVC condition).
 
 - Monolinguals and interpreters fixate on targets more than non-interpreters = INTERPRETER ADVANTAGE.
+
+- Practice with anticipation during simultaneous interpreting extrapolates to non-interpreting situations.
 ]
 
 ---
@@ -570,13 +556,13 @@ class: inverse
 
 
 .Large[
-1. Our findings support models advocating that it is possible to train anticipatory processing (Schremm, et al., 2017).
+1. Our findings support models advocating that it is possible to train anticipatory processing in the L2 (Schremm, et al., 2017).
 
 2. Qualitatively (can they do it?): it is possible to learn L2 anticipatory patterns (non-interpreters) post-puberty, and “practice makes you better” (interpreters).
 
-3. Quantitatively (how early do they predict?): the monolinguals are the winners.
+3. Quantitatively (how early do they predict?): the monolinguals are the winners, but interpreters perform very close under specific conditions.
 
-4. Important cues in the L1 can be transfered to the L2 with the appripriate trainning.
+4. Important cues in the L1 can be transfered to the L2 with the appropriate trainning (vowel durations) and it is possible to learned a new use of an existing cue in the L1 (lexical stress).
 
 ]
 
