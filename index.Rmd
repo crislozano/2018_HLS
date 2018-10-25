@@ -87,7 +87,7 @@ I will start by reviewing the literature on morphological, both during native an
 # L1 Morphosyntactic Anticipation
 
 .Large[
-- Monolinguals anticipate rapidly and effortlessly (Kamide, 2008), although not under all circumstances (Nieuwland et al., 2018)
+- Monolinguals anticipate rapidly and effortlessly (Kamide, 2008)
 
 <p></p>
 
@@ -213,7 +213,7 @@ In this coming section, I will review the literature related to the prosodic cue
 
 # Lexical Stress
 
-- Relative prominece of a syllable in relation to the rest of syllable in a word.
+- Relative prominece of a syllable in relation to the rest of syllables in a word.
 - Correlates: Tone (F0), duration (ms), and intesity (dB)
 - Contrastive in English and Spanish, but used differently
 
@@ -303,6 +303,12 @@ class: inverse, center, middle
 - Monolinguals (n = 25)
 - Non-interpreter bilinguals (n = 26)
 - Interpreter bilinguals (n = 12)
+</br>
+- L2 groups:
+  - 18-50 years old
+  - acquired L2 after puberby
+  - comparable in L2 proficiency (DELE)
+
 ]
 
 ]
@@ -394,25 +400,15 @@ class: inverse, center, middle
 
 # Vowel duration
 
----
-
-background-image: url(./img/vowel_time_course.png)
-background-size: 800pt
-
-???
-
-This graph shows us the proportion of fixations to the target and distractor in the three groups in our target area
-
-Because of differences in word frequency, we removed two most frequent items
-
-10ms bins
-Time course centered around offset target syllable 
-Interest area = earliest target word onset to target syllable onset
 
 ---
 
 background-image: url(./img/vowel_ttest.png)
-background-size: 800pt
+background-size: 600pt
+
+- Only Interpreters anticipate in both conditions
+
+
 
 ???
 
@@ -430,7 +426,10 @@ Monolinguals do not anticipate
 ---
 
 background-image: url(./img/vowel_glmm.png)
-background-size: 800pt
+background-size: 600pt
+
+- Main effect of group: IN anticipate more than the other 2 groups
+- Main effect of condition: all groups anticipate more in dysyllabic cond
 
 ???
 
@@ -448,7 +447,10 @@ There was no main effect of the interaction of group and condition
 ---
 
 background-image: url(./img/vowel_gca.png)
-background-size: 800pt
+background-size: 600pt
+
+- Main effect of group: IN higher fixation rate (over time course)
+- Main effect cond: all groups are faster in the disyllabic condition
 
 ???
 
@@ -471,16 +473,13 @@ class: inverse, center, middle
 # Lexical stress
 
 ---
-background-image: url(./img/time_course.png)
-background-size: 800pt
 
-???
-Time course
-
----
 
 background-image: url(./img/ttest.png)
-background-size: 800pt
+background-size: 600pt
+
+- Only MON and IN anticipate in both conditions
+
 
 ???
 t-test. Can they do it? Only MON and IN fixated on target words above chance at the target syllable offset (both conditions). NIN did not fixate on targets above chance after adjunting the alpha level for multiple testing. 
@@ -488,7 +487,11 @@ t-test. Can they do it? Only MON and IN fixated on target words above chance at 
 ---
 
 background-image: url(./img/glmm.png)
-background-size: 800pt
+background-size: 600pt
+
+- Main effect of group: NIN slower than MON
+- Main effect of syllable structer: CVC has increased chance of fixating target
+
 
 ???
 glmmm. Main effect of group and syllable structure. NIN lower fixation rate than monolinguals. Target fixations of IN = MON. Presence of a coda = increased chance of fixating at the target.
@@ -496,7 +499,10 @@ glmmm. Main effect of group and syllable structure. NIN lower fixation rate than
 ---
 
 background-image: url(./img/gca.png)
-background-size: 800pt
+background-size: 700pt
+
+- Main effect of group: NIN slower (over time course)
+- Main effect of group x coda: IN faster CV condition
 
 ???
 GCA. Main effect on group for the slope and the quadratic term. NIN lower fixation than M (slower at fixating). Group by coda interaction on the intercept: both IN and NINfixated on CV targets less than MON. Group by coda interaction on the slope for IN: faster fixations to the target. (we can see it on the graph, IN curve is steeper, it starts with lower fixations than the MON, but it reaches the same level by the offset of the target syllable)
@@ -608,6 +614,28 @@ background-position: 90% 20%
 # cris.lozano@rutgers.edu
 
 
+---
+
+background-image: url(./img/vowel_time_course.png)
+background-size: 800pt
+
+???
+
+This graph shows us the proportion of fixations to the target and distractor in the three groups in our target area
+
+Because of differences in word frequency, we removed two most frequent items
+
+10ms bins
+Time course centered around offset target syllable 
+Interest area = earliest target word onset to target syllable onset
+
+---
+
+background-image: url(./img/time_course.png)
+background-size: 800pt
+
+???
+Time course
 
 
 
